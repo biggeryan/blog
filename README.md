@@ -1,2 +1,2 @@
 # blog
-biggeryan的个人博客
+biggeryan个人博客
